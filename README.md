@@ -70,7 +70,4 @@ Machine learning-based spending prediction
 👤 Author
 
 Yacine Benalleg
-Applied Mathematics & Financial Mathematics Student
-Email: your-email@example.com
-
-Portfolio: your-portfolio-link
+Email: Yacinebenalleg8@gmail.com

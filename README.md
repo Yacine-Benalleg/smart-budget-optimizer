@@ -1,16 +1,76 @@
-# React + Vite
+# Smart Budget Optimization & Forecasting Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web-based financial analysis application that helps users track expenses, optimize savings, and analyze spending trends using mathematical modeling and data analysis techniques.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Overview
 
-## React Compiler
+This project was developed to combine financial management with applied mathematics and data-driven decision-making.  
+It allows users to input income and expenses, classify priorities, and receive optimization-based recommendations.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The system integrates constraint-based budgeting and regression-based forecasting to support better financial planning.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 📊 Expense tracking with category management
+- 💾 Persistent data storage using LocalStorage
+- 🗑️ Add and delete expenses
+- 📈 Spending trend visualization with charts
+- 📐 Linear regression-based forecasting
+- ⚖️ Weighted budget optimization with priority levels
+- 🎯 Savings target analysis (20% rule)
+- 🎨 Modern UI with Tailwind CSS
+
+---
+
+## 🧠 Mathematical & Analytical Methods
+
+- Constrained budgeting model
+- Weighted decision-making system
+- Linear regression for trend estimation
+- Percentage-based category analysis
+
+---
+
+## 🛠️ Technologies Used
+
+- React (Vite)
+- Tailwind CSS
+- Recharts
+- JavaScript (ES6+)
+- LocalStorage API
+
+---
+
+## 🚀 Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Yacine-Benalleg/smart-budget-optimizer.git
+```
+
+---
+
+📈 Future Improvements
+
+Advanced linear programming optimization
+
+Cloud database integration
+
+Multi-user support
+
+PDF financial report export
+
+Machine learning-based spending prediction
+
+👤 Author
+
+Yacine Benalleg
+Applied Mathematics & Financial Mathematics Student
+Email: your-email@example.com
+
+Portfolio: your-portfolio-link
